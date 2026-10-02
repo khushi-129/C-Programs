@@ -1,0 +1,30 @@
+# Compiled executables
+*.exe
+*.out
+*.app
+
+# Object files and libraries
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dll
+*.dylib
+
+# Debug files
+*.dSYM/
+*.pdb
+core
+a.out
+
+# Editor and IDE files
+.vscode/
+.idea/
+*.code-workspace
+*.swp
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
