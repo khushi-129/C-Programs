@@ -40,18 +40,6 @@ gcc program_name.c -o program_name.exe
 program_name.exe
 ```
 
-## Progress Log
-
-| Topic | Programs | Status |
-|-------|----------|--------|
-| Basics | 0 | In progress |
-| Loops | 0 | Not started |
-| Arrays | 0 | Not started |
-| Strings | 0 | Not started |
-| Functions & Recursion | 0 | Not started |
-| Pointers | 0 | Not started |
-| Structures & Files | 0 | Not started |
-
 ## Program Naming Convention
 
 Files are named by what they do, in lowercase with underscores:
@@ -67,5 +55,4 @@ Files are named by what they do, in lowercase with underscores:
 
 ## Contact
 
-- GitHub: [your-username](https://github.com/your-username)
-- LinkedIn: [your-name](https://www.linkedin.com/in/your-profile)
+- LinkedIn: [Khushi Upadhyay](https://www.linkedin.com/in/upadhyay-khushi)
