@@ -34,7 +34,7 @@ int main()
             x1 = (-b)/2*a;
             x2 = sqrt(disc)/2*a;
             printf("Root1 %.2f + %.3fi \n",x1,x2);
-            printf("Root1 %.2f - %.3fi \n",x1,x2);
+            printf("Root2 %.2f - %.3fi \n",x1,x2);
 
         }
         
